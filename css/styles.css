@@ -19,6 +19,7 @@ body {
 
 .resume-main {
 	background-color: #fffefc;
+	padding: 0px;
 }
 
 .resume-aside {
@@ -48,4 +49,13 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.biography-section{
+	margin-left: 20px;
+}
+
+.others{
+	background-color: aliceblue;
+	padding: 30px;
 }
