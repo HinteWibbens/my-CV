@@ -6,13 +6,13 @@
 /* Styles for the body */
 
 body {
-	font-family: "Roboto", sans-serif;
+	font-family: "Lucida Grande",sans-serif;
 	color: #202030;
 	background-color: #f8f8fc;
 }
 
 h1, h2 {
-	font-family: 'Gill Sans', 'sans-serif'
+	font-family:"Lucida Grande", 'sans-serif'
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
